@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="604" delta="old" >"C:\Xilinx\Org_Lab11\ALU.v" Line 36: Module instantiation should have an instance name
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="604" delta="old" >"C:\Xilinx\Org_Lab11\ALU.v" Line 42: Module instantiation should have an instance name
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="604" delta="old" >"C:\Xilinx\Org_Lab11\ALU.v" Line 48: Module instantiation should have an instance name
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="604" delta="old" >"C:\Xilinx\Org_Lab11\ALU.v" Line 61: Module instantiation should have an instance name
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="604" delta="old" >"C:\Xilinx\Org_Lab11\ALU.v" Line 67: Module instantiation should have an instance name
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="604" delta="old" >"C:\Xilinx\Org_Lab11\ALU.v" Line 73: Module instantiation should have an instance name
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="604" delta="old" >"C:\Xilinx\Org_Lab11\ALU.v" Line 84: Module instantiation should have an instance name
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="604" delta="old" >"C:\Xilinx\Org_Lab11\data_path.v" Line 98: Module instantiation should have an instance name
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"C:\Xilinx\Org_Lab11\SOCMF.v" Line 52: Assignment to <arg fmt="%s" index="1">state</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"C:\Xilinx\Org_Lab11\SOCMF.v" Line 55: Assignment to <arg fmt="%s" index="1">CPU_MIO</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="604" delta="old" >"C:\Xilinx\Org_Lab11\SOCMF.v" Line 61: Module instantiation should have an instance name
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="604" delta="old" >"C:\Xilinx\Org_Lab11\SOCMF.v" Line 70: Module instantiation should have an instance name
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="604" delta="old" >"C:\Xilinx\Org_Lab11\SOCMF.v" Line 95: Module instantiation should have an instance name
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"C:\Xilinx\Org_Lab11\7seg_Dev_IO.v" Line 21: Empty module &lt;<arg fmt="%s" index="1">seven_seg_Dev_IO</arg>&gt; remains a black box.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="604" delta="old" >"C:\Xilinx\Org_Lab11\SOCMF.v" Line 116: Module instantiation should have an instance name
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"C:\Xilinx\Org_Lab11\7seg_Dev.v" Line 21: Empty module &lt;<arg fmt="%s" index="1">seven_seg_dev</arg>&gt; remains a black box.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="604" delta="old" >"C:\Xilinx\Org_Lab11\SOCMF.v" Line 128: Module instantiation should have an instance name
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\Xilinx\Org_Lab11\led_Dev_IO.v" Line 38: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">24</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"C:\Xilinx\Org_Lab11\SOCMF.v" Line 135: Assignment to <arg fmt="%s" index="1">GPIOf0</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="604" delta="old" >"C:\Xilinx\Org_Lab11\SOCMF.v" Line 139: Module instantiation should have an instance name
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"C:\Xilinx\Org_Lab11\Anti_jitter.v" Line 21: Empty module &lt;<arg fmt="%s" index="1">Anti_jitter</arg>&gt; remains a black box.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"C:\Xilinx\Org_Lab11\SOCMF.v" Line 144: Assignment to <arg fmt="%s" index="1">button_pulse</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="604" delta="old" >"C:\Xilinx\Org_Lab11\SOCMF.v" Line 150: Module instantiation should have an instance name
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"C:\Xilinx\Org_Lab11\Counter_3channel.v" Line 42: Assignment to <arg fmt="%s" index="1">M2</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"C:\Xilinx\Org_Lab11\Counter_3channel.v" Line 37: Net &lt;<arg fmt="%s" index="1">counter1[32]</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="604" delta="old" >"C:\Xilinx\Org_Lab11\SOCMF.v" Line 166: Module instantiation should have an instance name
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"C:\Xilinx\Org_Lab11\ipcore_dir\RAM_B.v" Line 39: Empty module &lt;<arg fmt="%s" index="1">RAM_B</arg>&gt; remains a black box.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">C:\Xilinx\Org_Lab11\SOCMF.v</arg>&quot; line <arg fmt="%s" index="2">45</arg>: Output port &lt;<arg fmt="%s" index="3">state</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">muliti_cpu</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">C:\Xilinx\Org_Lab11\SOCMF.v</arg>&quot; line <arg fmt="%s" index="2">45</arg>: Output port &lt;<arg fmt="%s" index="3">CPU_MIO</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">muliti_cpu</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">C:\Xilinx\Org_Lab11\SOCMF.v</arg>&quot; line <arg fmt="%s" index="2">128</arg>: Output port &lt;<arg fmt="%s" index="3">GPIOf0</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">_i000005</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">C:\Xilinx\Org_Lab11\SOCMF.v</arg>&quot; line <arg fmt="%s" index="2">139</arg>: Output port &lt;<arg fmt="%s" index="3">button_pulse</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">_i000006</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">INT</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">Inst_in&lt;25:6&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">zero</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">overflow</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">B&lt;5:0&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">B&lt;31:11&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">addr_bus&lt;1:0&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">addr_bus&lt;27:12&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">clk</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">rst</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">Peripheral_in&lt;31:24&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">clk1</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">clk2</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">counter1&lt;32&gt;</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">counter2&lt;32&gt;</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">_i000007</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">_i000007</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">_i000007</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">_i000007</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">_i000007</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">_i000007</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">_i000007</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">_i000007</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">_i000007</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">_i000007</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">_i000007</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">_i000007</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">_i000007</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">_i000007</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">_i000007</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">_i000007</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">_i000007</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">_i000007</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">_i000007</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">_i000007</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">_i000007</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">_i000007</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter_x</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter_x</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter_x</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter_x</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter_x</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter_x</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter_x</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter_x</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter_x</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter_x</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter_x</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter_x</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter_x</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter_x</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter_x</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter_x</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter_x</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter_x</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter_x</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter_x</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter_x</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_Ctrl_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Counter_x</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">_i000001/clkdiv_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SOCMF</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">_i000001/clkdiv_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SOCMF</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">_i000001/clkdiv_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SOCMF</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">_i000001/clkdiv_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SOCMF</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">_i000001/clkdiv_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SOCMF</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="3002" delta="old" >This design contains one or more registers/latches that are directly
+incompatible with the <arg fmt="%s" index="1">Spartan6</arg> architecture. The two primary causes of this is
+either a register or latch described with both an asynchronous set and
+asynchronous reset, or a register or latch described with an asynchronous
+set or reset which however has an initialization value of the opposite 
+polarity (i.e. asynchronous reset with an initialization value of 1).
+ While this circuit can be built, it creates a sub-optimal implementation
+in terms of area, power and performance. For a more optimal implementation
+Xilinx highly recommends one of the following:
+
+       1) Remove either the set or reset from all registers and latches
+          if not needed for required functionality
+       2) Modify the code in order to produce a synchronous set
+          and/or reset (both is preferred)
+       3) Ensure all registers have the same initialization value as the
+          described asynchronous set or reset polarity
+       4) Use the -async_to_sync option to transform the asynchronous
+          set/reset to synchronous operation
+          (timing simulation highly recommended when using this option)
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">muliti_cpu/U11/CPU_MIO</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SOCMF</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">_i000005/GPIOf0_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SOCMF</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">_i000005/GPIOf0_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SOCMF</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">_i000005/GPIOf0_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SOCMF</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">_i000005/GPIOf0_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SOCMF</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">_i000005/GPIOf0_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SOCMF</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">_i000005/GPIOf0_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SOCMF</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">_i000005/GPIOf0_15</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SOCMF</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">_i000005/GPIOf0_14</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SOCMF</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">_i000005/GPIOf0_13</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SOCMF</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">_i000005/GPIOf0_12</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SOCMF</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">_i000005/GPIOf0_11</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SOCMF</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">_i000005/GPIOf0_10</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SOCMF</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">_i000005/GPIOf0_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SOCMF</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">_i000005/GPIOf0_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SOCMF</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">_i000005/GPIOf0_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SOCMF</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">_i000005/GPIOf0_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SOCMF</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">_i000005/GPIOf0_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SOCMF</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">_i000005/GPIOf0_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SOCMF</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">_i000005/GPIOf0_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SOCMF</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">_i000005/GPIOf0_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SOCMF</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">_i000005/GPIOf0_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SOCMF</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">_i000005/GPIOf0_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">SOCMF</arg>&gt;.
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">muliti_cpu/U11/PCSource_0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">SOCMF</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;muliti_cpu/U11/PCWriteCond&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2169" delta="old" >HDL ADVISOR - Some clock signals were not automatically buffered by XST with BUFG/BUFR resources. Please use the buffer_type constraint in order to insert these buffers to the clock signals to help prevent skew problems.
+</msg>
+
+</messages>
+
